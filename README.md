@@ -64,7 +64,8 @@ make
 
 ## 📷 Preview
 
-![result](https://github.com/user-attachments/assets/5b336585-9704-49bc-9bce-d1e44cd1bb04)
+
+![qt_result](https://github.com/user-attachments/assets/ae949b5f-f468-427d-8400-cb5264b1116f)
 
 
 ---
