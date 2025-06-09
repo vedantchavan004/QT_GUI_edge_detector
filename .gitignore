@@ -1,3 +1,34 @@
+# Qt / CMake build files
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt Creator settings
+*.user
+*.user.*
+.idea/
+.vscode/
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+
+# Backup / Temp files
+*~
+*.autosave
+*.log
+
+# macOS and Windows noise
+.DS_Store
+Thumbs.db
+
 # Prerequisites
 *.d
 
@@ -26,7 +57,3 @@
 *.a
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
